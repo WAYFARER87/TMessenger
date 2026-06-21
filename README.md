@@ -4,6 +4,8 @@
 
 It is built for real application integration rather than a static mockup: the component exposes message APIs, reply/edit/delete flows, bulk selection, attachment handling, emoji insertion, and drag-and-drop file intake through standard Lazarus events.
 
+![Скриншот](TM.png)
+
 ## Features
 
 - Incoming and outgoing chat bubbles
