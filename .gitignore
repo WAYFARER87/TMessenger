@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Lazarus / FPC build output
+lib/
+*.compiled
+*.ppu
+*.o
+*.or
+*.rst
+*.rsj
+*.s
+*.a
+*.so
+*.dll
+*.dylib
+*.bak
+*.dbg
+
+# Lazarus project/session state
+*.lps
+*.res
+backup/
+
+# Executables and app bundles
+demo/messengerchatdemo
+demo/messengerchatdemo.app/
+botdemo/messengerbotdemo
+botdemo/messengerbotdemo.app/
+
+# Temporary Lazarus linker files
+demo/link*.res
+demo/linkfiles*.res
+botdemo/link*.res
+botdemo/linkfiles*.res
+
+# Local secrets
+botdemo/local_bot_token.inc
