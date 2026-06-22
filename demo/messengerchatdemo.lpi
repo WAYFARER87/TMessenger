@@ -65,8 +65,5 @@
         </Win32>
       </Options>
     </Linking>
-    <Other>
-      <CustomOptions Value="-WM10.15"/>
-    </Other>
   </CompilerOptions>
 </CONFIG>
